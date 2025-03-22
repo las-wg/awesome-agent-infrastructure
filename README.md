@@ -1,5 +1,5 @@
 # awesome-agent-infrastructure
-A repository of agent-specific infrastructure papers, protocols, agents, and works.
+A repository of AI agent-specific infrastructure papers, repositories, and protocols. Curated by the [Lightweight Agent Standardization Working Group](https://las-wg.org/).
 
 # Security and Guardrails
 
